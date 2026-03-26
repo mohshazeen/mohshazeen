@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mhmmdshazeen@gmail.com**
 
-- Browse my portfolio **https://pfolio-rose.vercel.app/**
+- Browse my portfolio **https://shazeen.vercel.app/**
 
 
 
