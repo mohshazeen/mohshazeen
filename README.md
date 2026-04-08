@@ -21,7 +21,7 @@
 
 ### ⚡ Professional Profile
 
-I am a multifaceted tech professional based in Sri Lanka, balancing industry-leading development with academic contribution.
+I am a multifaceted tech professional based in Sri Lanka, balancing industry-leading development with academic contribution. 
 
 * 🚀 **Mobile Expertise:** Specialized in **Flutter**.
 * 💻 **Web Expertise:** Focused on **React.js**.
@@ -43,13 +43,12 @@ I am a multifaceted tech professional based in Sri Lanka, balancing industry-lea
 ### 📊 Performance Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma.vercel.app/api?username=mohshazeen&show_icons=true&theme=tokyonight" alt="Stats" />
-  
-  <img height="180em" src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=mohshazeen&layout=compact&theme=tokyonight&hide=html,css" alt="Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohshazeen&layout=compact&theme=tokyonight&hide=html,css" alt="Languages" />
   
   <br/><br/>
   
-  <img width="100%" src="https://streak-stats.demolab.com?user=mohshazeen&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohshazeen&theme=tokyonight" alt="Streak" />
 </div>
 
 ---
