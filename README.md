@@ -21,13 +21,12 @@
 
 ### ⚡ Professional Profile
 
-I am a multifaceted tech professional based in Sri Lanka, balancing industry-leading development with academic contribution. As a **Subject Matter Expert** and **Visiting Lecturer**, I am dedicated to bridging the gap between theoretical computer science and modern industry standards.
+I am a multifaceted tech professional based in Sri Lanka.
 
-* 🚀 **Mobile Expertise:** Specialized in high-performance, cross-platform applications using **Flutter**.
-* 💻 **Web Expertise:** Focused on building scalable, interactive user interfaces with **React.js**.
-* 🎓 **Academic:** Visiting Lecturer & SME, mentoring the next generation of software engineers.
-* ✍️ **Writing:** Documenting complex architectural patterns on [Medium](https://medium.com/@mhmmdshazeen).
-* 📫 **Reach me:** **mhmmdshazeen@gmail.com**
+* 🚀 **Mobile Expertise:** Specialized in **Flutter**.
+* 💻 **Web Expertise:** Focused on **React.js**.
+* 🎓 **Academic:** Visiting Lecturer & SME.
+* ✍️ **Writing:** [Medium Blog](https://medium.com/@mhmmdshazeen).
 
 ---
 
@@ -44,12 +43,13 @@ I am a multifaceted tech professional based in Sri Lanka, balancing industry-lea
 ### 📊 Performance Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mohamed's Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohshazeen&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true" alt="Stats" />
   
-  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohshazeen&layout=compact" alt="Languages" />
   
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohshazeen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohshazeen" alt="Streak" />
 </div>
 
 ---
@@ -57,12 +57,7 @@ I am a multifaceted tech professional based in Sri Lanka, balancing industry-lea
 ### 🤝 Connect & Collaborate
 
 <p align="center">
-  <a href="mailto:mhmmdshazeen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/mohamed-shazeen-9806/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@mhmmdshazeen"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://stackoverflow.com/users/13709153/shazeen98"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" /></a>
+  <a href="mailto:mhmmdshazeen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-shazeen-9806/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@mhmmdshazeen"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding GIF" />
-</div>
