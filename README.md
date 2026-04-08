@@ -21,12 +21,12 @@
 
 ### ⚡ Professional Profile
 
-I am a multifaceted tech professional based in Sri Lanka.
+I am a multifaceted tech professional based in Sri Lanka, balancing industry-leading development with academic contribution.
 
 * 🚀 **Mobile Expertise:** Specialized in **Flutter**.
 * 💻 **Web Expertise:** Focused on **React.js**.
 * 🎓 **Academic:** Visiting Lecturer & SME.
-* ✍️ **Writing:** [Medium Blog](https://medium.com/@mhmmdshazeen).
+* ✍️ **Writing:** [Medium](https://medium.com/@mhmmdshazeen).
 
 ---
 
@@ -43,13 +43,13 @@ I am a multifaceted tech professional based in Sri Lanka.
 ### 📊 Performance Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true" alt="Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma.vercel.app/api?username=mohshazeen&show_icons=true&theme=tokyonight" alt="Stats" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohshazeen&layout=compact" alt="Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=mohshazeen&layout=compact&theme=tokyonight&hide=html,css" alt="Languages" />
   
   <br/><br/>
   
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohshazeen" alt="Streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=mohshazeen&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 ---
@@ -61,3 +61,7 @@ I am a multifaceted tech professional based in Sri Lanka.
   <a href="https://www.linkedin.com/in/mohamed-shazeen-9806/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@mhmmdshazeen"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
+</div>
