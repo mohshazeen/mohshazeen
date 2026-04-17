@@ -47,7 +47,7 @@ I am a multifaceted tech professional based in Sri Lanka, balancing industry-lea
   
   <br/><br/>
   
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohshazeen&theme=tokyonight" alt="Streak" />
+<img width="100%" src="https://streak-stats.demolab.com?user=mohshazeen&theme=tokyonight" />
 </div>
 
 ---
