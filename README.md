@@ -1,15 +1,19 @@
 <div align="center">
   <img src="https://miro.medium.com/max/1400/1*vBISkxZZqPTJxfc6J9x4aQ.gif" width="100%" alt="Header Banner" />
+  
   <br/>
+
   <h1>✨ Mohamed Shazeen ✨</h1>
   <p align="center">
     <strong>Visiting Lecturer | Subject Matter Expert | Full-Stack Developer & Flutter Mobile App Specialist</strong>
   </p>
+
   <p align="center">
     <a href="https://shazeen.vercel.app/"><b>Portfolio</b></a> •
     <a href="https://medium.com/@mhmmdshazeen"><b>Technical Blog</b></a> •
     <a href="mailto:mhmmdshazeen@gmail.com"><b>Direct Email</b></a>
   </p>
+
   <img src="https://komarev.com/ghpvc/?username=mohshazeen&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Views" />
 </div>
 
@@ -39,12 +43,13 @@ I am a multifaceted tech professional based in Sri Lanka, balancing industry-lea
 ### 📊 Performance Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&v=1" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohshazeen&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=3600" alt="GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohshazeen&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
   
   <br/>
   
-  <img width="78%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohshazeen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&v=1" alt="Top Languages" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohshazeen&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&count_private=true&cache_seconds=3600" alt="Top Languages" />
 </div>
 
 ---
