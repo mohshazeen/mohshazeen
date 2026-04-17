@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=280&section=header&text=Mohamed%20Shazeen&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Visiting%20Lecturer%20|%20Full-Stack%20Developer%20|%20SME&descAlignY=58&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Mohamed%20Shazeen&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Visiting%20Lecturer%20|%20Full-Stack%20Developer%20|%20SME&descAlignY=58&descSize=20" width="100%" />
 
   <br/>
 
@@ -35,23 +35,16 @@ A high-impact technology professional based in Sri Lanka, dedicated to architect
 ### 📊 Performance Analytics (2026)
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&cache_seconds=1" alt="Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohshazeen&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&cache_seconds=1" alt="Streak" />
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohshazeen&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8" alt="GitHub Streak" />
 
-  <br/>
+  <br/><br/>
 
-  <img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohshazeen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&bg_color=0D1117&title_color=38BDF8&cache_seconds=1" alt="Languages" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohshazeen&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
   
   <br/><br/>
-  
+
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohshazeen&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=38BDF8" alt="Activity Graph" />
 </div>
 
