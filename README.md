@@ -43,11 +43,20 @@ I am a multifaceted tech professional based in Sri Lanka, balancing industry-lea
 ### 📊 Performance Metrics
 
 <div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" width="400px" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohshazeen&theme=tokyonight&cache_seconds=1800" width="400px" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
   
+  <br/>
   
-  <br/><br/>
-  
-<img width="100%" src="https://streak-stats.demolab.com?user=mohshazeen&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohshazeen&layout=compact&theme=tokyonight&hide=html,css&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 ---
