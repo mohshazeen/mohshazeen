@@ -43,7 +43,7 @@ I am a multifaceted tech professional based in Sri Lanka, balancing industry-lea
 ### 📊 Performance Metrics (2026)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true&theme=tokyonight&count_private=true&commits_year=2026&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
   
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohshazeen&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
   
