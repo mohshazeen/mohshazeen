@@ -43,13 +43,13 @@ I am a multifaceted tech professional based in Sri Lanka, balancing industry-lea
 ### 📊 Performance Metrics (2026)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1" alt="GitHub Stats" />
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohshazeen&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohshazeen&theme=tokyonight&hide_border=true&cache_seconds=1" alt="GitHub Streak" />
   
   <br/>
   
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohshazeen&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true&cache_seconds=1800" alt="Top Languages" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohshazeen&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true&cache_seconds=1" alt="Top Languages" />
 </div>
 
 ---
