@@ -1,68 +1,57 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=SHAZΞEN&fontSize=95&animation=fadeIn&fontAlignY=45&fontColor=38BDF8" width="100%" />
+# Hi there, I'm Moh Shazeen 👋 
+### 🚀 Full-Stack Web & Cross-Platform Mobile Developer
 
-  <p align="center">
-    <strong>FULL-STACK ARCHITECT • ACADEMIC SME • MOBILE INNOVATOR</strong>
-  </p>
-
-  <p align="center">
-    <a href="https://shazeen.vercel.app/"><img src="https://img.shields.io/badge/-PORTFOLIO-38BDF8?style=flat-square&logo=react&logoColor=black" /></a>
-    <a href="https://medium.com/@mhmmdshazeen"><img src="https://img.shields.io/badge/-INSIGHTS-38BDF8?style=flat-square&logo=medium&logoColor=black" /></a>
-    <a href="mailto:mhmmdshazeen@gmail.com"><img src="https://img.shields.io/badge/-DIRECT_LINE-38BDF8?style=flat-square&logo=gmail&logoColor=black" /></a>
-  </p>
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mohshazeen&label=Profile%20views&color=0e75b6&style=flat" alt="mohshazeen" />
+</p>
 
 ---
 
-### 🌐 Digital Architecture Philosophy
+### 📖 About Me
 
-I build bridge-systems: software that connects complex business logic with seamless user experiences, and academic theory with practical industrial application. Based in **Sri Lanka**, I lead technical strategy with a focus on scalability and clean code.
-
-- 💎 **Flutter Specialist:** Crafting pixel-perfect, high-performance mobile ecosystems.
-- ⚙️ **System Architect:** Developing robust backends via **Node.js, .NET Core, and Cloud Microservices.**
-- 🎓 **Education Lead:** Consulting as a **Subject Matter Expert** to shape the future of tech talent.
-
----
-
-### 🛠️ The Tech Stack Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,nodejs,dotnet,cs,ts,mongodb,firebase,docker,aws,github,figma,postman,linux&perline=8" />
-</div>
+- 🔭 I’m currently working on high-performance **MERN Stack** applications.
+- 📱 Passionate about building seamless mobile experiences with **Flutter** and **React Native**.
+- 🌱 I’m currently diving deeper into **Cloud Architecture** and **Scalable Backends**.
+- 💬 Ask me about **JavaScript, Dart, or State Management**.
+- 📫 How to reach me: [shazeen.dev@email.com] - ⚡ Fun fact: I spend as much time naming my variables as I do writing the logic.
 
 ---
 
-### 📊 Strategic Analytics
+### 🛠 My Professional Tech Stack
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=0D1117" />
-      </td>
-      <td width="50%" valign="top">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohshazeen&layout=compact&theme=transparent&hide_border=true&langs_count=6&title_color=38BDF8&text_color=94A3B8&bg_color=0D1117" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohshazeen&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" />
-</div>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Mobile Development** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) |
+| **Web (MERN)** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
+| **Styling & UI** | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Material UI](https://img.shields.io/badge/mui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) |
+| **DevOps & Tools** | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
 
 ---
 
-### 📡 Connectivity Matrix
+### 📊 GitHub Analytics
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-shazeen-9806/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohshazeen)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohshazeen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="170" />
+</p>
 
-  <br/>
-  
-  <sub>**"Code is poetry, written in the language of logic."**</sub>
-  <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohshazeen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINK" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/YOUR_HANDLE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+</p>
+
+<br />
+
+---
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
+  <b>Built with ❤️ by Moh Shazeen</b>
+</p>
