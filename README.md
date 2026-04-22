@@ -31,15 +31,14 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohshazeen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" alt="Moh Shazeen GitHub Stats" height="170" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohshazeen&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Most Used Languages" height="170" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohshazeen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 ### 🤝 Connect with Me
 
