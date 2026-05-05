@@ -13,7 +13,7 @@
 - 📱 Passionate about building seamless mobile experiences with **Flutter** and **React Native**.
 - 🌱 I’m currently diving deeper into **Cloud Architecture** and **Scalable Backends**.
 - 💬 Ask me about **JavaScript, Dart, or State Management**.
-- 📫 How to reach me: [shazeen.dev@email.com] - ⚡ Fun fact: I spend as much time naming my variables as I do writing the logic.
+- 📫 How to reach me: mhmmdshazeen@gmail.com - ⚡ Fun fact: I spend as much time naming my variables as I do writing the logic.
 
 ---
 
