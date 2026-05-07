@@ -13,7 +13,7 @@
 - 📱 Passionate about building seamless mobile experiences with **Flutter** and **React Native**.
 - 🌱 I’m currently diving deeper into **Cloud Architecture** and **Scalable Backends**.
 - 💬 Ask me about **JavaScript, Dart, or State Management**.
-- 📫 How to reach me: mhmmdshazeen@gmail.com - ⚡
+- 📫 How to reach me: mhmmdshazeen@gmail.com
 
 ---
 
@@ -52,5 +52,5 @@
 ---
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
-  <b>Built with ❤️ by Moh Shazeen</b>
+  <b>Built by Mohamed Shazeen</b>
 </p>
