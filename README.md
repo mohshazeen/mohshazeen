@@ -13,52 +13,54 @@
   <p><em>Building reliable backend systems, thoughtful interfaces, and seamless integrations that support real business workflows.</em></p>
 
   <!-- Premium Linked Social Buttons -->
-<p align="center">
-  <a href="https://www.shazeen.pro">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-shazeen-9806/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mhmmdshazeen@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  <a href="https://github.com/mohshazeen">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://www.shazeen.pro">
+      <img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/mohamed-shazeen-9806/">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="mailto:mhmmdshazeen@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+    </a>
+    <a href="https://github.com/mohshazeen">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    </a>
+  </p>
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+## <img src="https://img.icons8.com/ios-filled/24/0EA5E9/user.png" width="22" align="center"/> About Me
 
 I'm a Full-Stack Software Engineer with **3+ years of professional experience** working across frontend, backend, mobile, and cloud deployment. My expertise spans building scalable applications, robust data layers, and seamless mobile experiences. I highly value maintainable code, clear engineering practices, and dependable application behavior in production environments.
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ Engineering & Architecture</h3>
-      <ul>
-        <li>🚀 <strong>Full-Stack:</strong> End-to-end web & mobile apps</li>
-        <li>🔌 <strong>Backend:</strong> REST API design & service integration</li>
-        <li>🔐 <strong>Security:</strong> Auth, OTP & role-based access (RBAC)</li>
-        <li>💳 <strong>Workflows:</strong> Payment & transaction pipelines</li>
+      <h3><img src="https://img.icons8.com/ios-filled/24/0EA5E9/settings.png" width="20" align="center"/> Engineering & Architecture</h3>
+      <ul style="list-style-type: none;">
+        <li><img src="https://img.icons8.com/ios-filled/16/0EA5E9/monitor--v1.png" width="14"/> &nbsp;<strong>Full-Stack:</strong> End-to-end web & mobile apps</li>
+        <li><img src="https://img.icons8.com/ios-filled/16/0EA5E9/database.png" width="14"/> &nbsp;<strong>Backend:</strong> REST API design & service integration</li>
+        <li><img src="https://img.icons8.com/ios-filled/16/0EA5E9/lock.png" width="14"/> &nbsp;<strong>Security:</strong> Auth, OTP & role-based access (RBAC)</li>
+        <li><img src="https://img.icons8.com/ios-filled/16/0EA5E9/bank-cards.png" width="14"/> &nbsp;<strong>Workflows:</strong> Payment & transaction pipelines</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ Delivery & Operations</h3>
-      <ul>
-        <li>🔄 <strong>Methodology:</strong> Agile / Scrum collaboration</li>
-        <li>📦 <strong>CI/CD:</strong> Git, GitLab & automated pipelines</li>
-        <li>⚡ <strong>Quality:</strong> Testing, debugging & performance</li>
-        <li>☁️ <strong>Cloud:</strong> Deployment & system maintenance</li>
+      <h3><img src="https://img.icons8.com/ios-filled/24/0EA5E9/rocket.png" width="20" align="center"/> Delivery & Operations</h3>
+      <ul style="list-style-type: none;">
+        <li><img src="https://img.icons8.com/ios-filled/16/0EA5E9/refresh.png" width="14"/> &nbsp;<strong>Methodology:</strong> Agile / Scrum collaboration</li>
+        <li><img src="https://img.icons8.com/ios-filled/16/0EA5E9/box.png" width="14"/> &nbsp;<strong>CI/CD:</strong> Git, GitLab & automated pipelines</li>
+        <li><img src="https://img.icons8.com/ios-filled/16/0EA5E9/bug.png" width="14"/> &nbsp;<strong>Quality:</strong> Testing, debugging & performance</li>
+        <li><img src="https://img.icons8.com/ios-filled/16/0EA5E9/cloud.png" width="14"/> &nbsp;<strong>Cloud:</strong> Deployment & system maintenance</li>
       </ul>
     </td>
   </tr>
 </table>
 
-## 💻 Premium Technology Stack
+<br/>
+
+## <img src="https://img.icons8.com/ios-filled/24/0EA5E9/code.png" width="22" align="center"/> Premium Technology Stack
 
 <div align="center">
   <p><strong>Languages & Core</strong></p>
@@ -68,9 +70,8 @@ I'm a Full-Stack Software Engineer with **3+ years of professional experience** 
   
   <br><br>
   
- <p><strong>Frontend & Mobile</strong></p>
+  <p><strong>Frontend & Mobile</strong></p>
   <a href="https://skillicons.dev">
-    <!-- Replaced 'android' with 'androidstudio' -->
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,androidstudio,kotlin" alt="Frontend and Mobile" />
   </a>
   
@@ -91,16 +92,16 @@ I'm a Full-Stack Software Engineer with **3+ years of professional experience** 
 
 <br/>
 
-## 📊 GitHub Analytics
+## <img src="https://img.icons8.com/ios-filled/24/0EA5E9/combo-chart--v1.png" width="22" align="center"/> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=38BDF8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohshazeen&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=0EA5E9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohshazeen&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
-## 💼 Professional Experience
+## <img src="https://img.icons8.com/ios-filled/24/0EA5E9/briefcase.png" width="22" align="center"/> Professional Experience
 
 > **Software Engineer** @ Seylora IT Solutions <br/>
 > <sub>*March 2026 – Present*</sub>
@@ -117,14 +118,18 @@ I'm a Full-Stack Software Engineer with **3+ years of professional experience** 
 > * Delivered comprehensive programming and software engineering lectures.
 > * Provided practical guidance in debugging, technical problem-solving, and student project execution.
 
-## 🎓 Education
+<br/>
 
-- 🎓 **BEng (Hons) in Software Engineering** — University of Westminster, UK *(awarded through IIT)* (2020–2023)
-- 💻 **Full Stack Development (MERN Stack)** — University of Colombo School of Computing (2024)
+## <img src="https://img.icons8.com/ios-filled/24/0EA5E9/graduation-cap.png" width="24" align="center"/> Education
+
+<ul style="list-style-type: none;">
+  <li><img src="https://img.icons8.com/ios-filled/16/0EA5E9/diploma.png" width="14"/> &nbsp;<strong>BEng (Hons) in Software Engineering</strong> — University of Westminster, UK <em>(awarded through IIT)</em> (2020–2023)</li>
+  <li><img src="https://img.icons8.com/ios-filled/16/0EA5E9/monitor--v1.png" width="14"/> &nbsp;<strong>Full Stack Development (MERN Stack)</strong> — University of Colombo School of Computing (2024)</li>
+</ul>
 
 ---
 
-## 🌍 Open To...
+## <img src="https://img.icons8.com/ios-filled/24/0EA5E9/marker.png" width="22" align="center"/> Open To...
 
 Full-stack engineering, React Native/mobile development, backend/API engineering, and software integration opportunities. Based in Sri Lanka and **open to international relocation**.
 
