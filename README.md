@@ -26,9 +26,6 @@
     <a href="https://github.com/mohshazeen">
       <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
     </a>
-    <a href="tel:+94776889699">
-      <img src="https://img.shields.io/badge/Mobile-+94_7X_XXX_XXXX-0F172A?style=flat-square&logo=whatsapp&logoColor=25D366" alt="Mobile" />
-    </a>
   </p>
 </div>
 
@@ -140,8 +137,5 @@ Full-stack engineering, React Native/mobile development, backend/API engineering
   <h3>Let's build something amazing together!</h3>
   <a href="mailto:mhmmdshazeen@gmail.com">
     <img src="https://img.shields.io/badge/Reach_Out_Via_Email-0ea5e9?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Me" />
-  </a>
-  <a href="tel:+94776889699">
-    <img src="https://img.shields.io/badge/Call_or_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call Me" />
   </a>
 </div>
