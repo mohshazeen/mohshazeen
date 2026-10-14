@@ -60,11 +60,12 @@ I'm a Full-Stack Software Engineer with **3+ years of professional experience** 
   
   <br><br>
   
-  <p><strong>Frontend & Mobile</strong></p>
+ <p><strong>Frontend & Mobile</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,android,kotlin" alt="Frontend and Mobile" />
+    <!-- Replaced 'android' with 'androidstudio' -->
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,androidstudio,kotlin" alt="Frontend and Mobile" />
   </a>
-
+  
   <br><br>
 
   <p><strong>Backend & Databases</strong></p>
