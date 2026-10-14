@@ -1,119 +1,141 @@
-<p align="center">
+<div align="center">
   <img src="profile-banner.svg" alt="Mohamed Shazeen — Full-Stack Software Engineer" width="100%" />
-</p>
 
-<p align="center">
-  <a href="https://www.shazeen.pro"><img src="https://img.shields.io/badge/PORTFOLIO-shazeen.pro-0B1220?style=flat-square&logo=googlechrome&logoColor=67E8F9" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mohamed-shazeen-9806/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mhmmdshazeen@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/mohshazeen"><img src="https://img.shields.io/badge/GITHUB-mohshazeen-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+  <h1>Hi there, I'm Mohamed Shazeen 👋</h1>
+  
+  <!-- Animated Typing Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Mobile+Application+Developer;REST+API+%26+Backend+Specialist;Building+Reliable+Business+Systems" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  <strong>3+ years of professional experience</strong> building production web and mobile applications.<br />
-  Focused on reliable backend systems, thoughtful interfaces, and integrations that support real business workflows.
-</p>
+  <p><em>Building reliable backend systems, thoughtful interfaces, and seamless integrations that support real business workflows.</em></p>
 
-<p align="center">
-  <code>Full-Stack Development</code> &nbsp; <code>Mobile Engineering</code> &nbsp; <code>REST APIs</code> &nbsp; <code>System Integration</code>
-</p>
+  <!-- Premium Linked Social Buttons -->
+  <p>
+    <a href="https://www.shazeen.pro"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-shazeen.pro-0B1220?style=for-the-badge&logo=googlechrome&logoColor=67E8F9" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/mohamed-shazeen-9806/"><img src="https://img.shields.io/badge/🤝_LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:mhmmdshazeen@gmail.com"><img src="https://img.shields.io/badge/✉️_CONTACT_ME-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/mohshazeen"><img src="https://img.shields.io/badge/💻_GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+</div>
 
----
+<br/>
 
-## Profile
+## 👨‍💻 About Me
 
-I'm a Full-Stack Software Engineer working across frontend, backend, mobile, and deployment. My experience spans React and Next.js applications, Node.js services, MongoDB data layers, React Native apps, authentication, payment integrations, and third-party APIs. I value maintainable code, clear engineering practices, and dependable application behaviour in production.
+I'm a Full-Stack Software Engineer with **3+ years of professional experience** working across frontend, backend, mobile, and cloud deployment. My expertise spans building scalable **React** and **Next.js** applications, robust **Node.js** services, **MongoDB** data layers, and seamless **React Native** apps. I heavily value maintainable code, clear engineering practices, and dependable application behavior in production environments.
 
-<table>
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <strong>Engineering</strong><br />
-      End-to-end web and mobile development<br />
-      REST API design and service integration<br />
-      Authentication, OTP and role-based access<br />
-      Payment and transaction workflows
+      <h3>⚙️ Engineering</h3>
+      <ul>
+        <li>End-to-end web and mobile development</li>
+        <li>REST API design and service integration</li>
+        <li>Authentication, OTP and role-based access</li>
+        <li>Payment and transaction workflows</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <strong>Delivery</strong><br />
-      Agile / Scrum collaboration<br />
-      Git, GitLab and CI/CD workflows<br />
-      Testing, debugging and performance improvements<br />
-      Cloud deployment and system maintenance
+      <h3>🚀 Delivery & Operations</h3>
+      <ul>
+        <li>Agile / Scrum collaboration</li>
+        <li>Git, GitLab and CI/CD workflows</li>
+        <li>Testing, debugging & performance optimization</li>
+        <li>Cloud deployment and system maintenance</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-## Technology
+## 📊 GitHub Stats
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohshazeen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Shazeen's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohshazeen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F766E?style=flat-square&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+## 🛠️ Technology Stack
 
-**Backend & Data**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-334155?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-111827?style=flat-square&logo=socketdotio&logoColor=white)
+<div align="center">
+  
+  <br/>
+  
+  **Languages** <br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-**Mobile**  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=111827)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+  <br/><br/>
+  **Frontend** <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F766E?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-**Cloud, DevOps & Tools**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-334155?style=flat-square&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+  <br/><br/>
+  **Backend & Database** <br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-334155?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-111827?style=for-the-badge&logo=socketdotio&logoColor=white" />
 
-**Additional experience:** JWT, OTP authentication, role-based access control (RBAC), Redux, Redux-Saga, unit testing, Agile, Scrum, version control, and API debugging.
+  <br/><br/>
+  **Mobile Development** <br/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 
-## Professional Experience
+  <br/><br/>
+  **Cloud & DevOps Tools** <br/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-334155?style=for-the-badge&logo=githubactions&logoColor=white" />
+  
+</div>
 
-**Software Engineer · Seylora IT Solutions**  
-<sub>March 2026 – Present</sub>
+---
 
-Building and maintaining full-stack web and mobile applications, REST APIs, and third-party integrations. Working with GitLab, CI/CD workflows, production troubleshooting, and application reliability improvements.
+## 💼 Professional Experience
 
-**Software Engineer · Zaas Labs**  
-<sub>June 2023 – February 2026</sub>
+### 🏢 Seylora IT Solutions
+**Software Engineer** | *March 2026 – Present*
+- Building and maintaining full-stack web and mobile applications, REST APIs, and seamless third-party integrations.
+- Managing GitLab CI/CD workflows, handling production troubleshooting, and continuously optimizing application reliability.
 
-Developed web and mobile application features, REST APIs, integrations, bug fixes, and performance improvements as part of Agile software delivery teams.
+### 🏢 Zaas Labs
+**Software Engineer** | *June 2023 – February 2026*
+- Developed dynamic web and mobile application features, robust REST APIs, and system integrations.
+- Actively contributed to Agile software delivery teams, executing bug fixes and significant performance improvements.
 
-**Visiting Lecturer · Informatics Institute of Technology**  
-<sub>September 2024 – September 2026</sub>
+### 🎓 Informatics Institute of Technology
+**Visiting Lecturer** | *September 2024 – September 2026*
+- Delivered comprehensive programming and software engineering lectures.
+- Provided practical guidance in debugging, technical problem-solving, and student project execution.
 
-Delivered programming and software engineering teaching, with practical guidance in debugging, technical problem-solving, and student project execution. Mentored 1,000+ undergraduate students, as stated in my professional resume.
+---
 
-## Education
+## 🎓 Education
 
-- **BEng (Hons) in Software Engineering** — University of Westminster, United Kingdom; awarded through Informatics Institute of Technology (2020–2023)
-- **Full Stack Development — MERN Stack** — University of Colombo School of Computing (2024)
+- 🎓 **BEng (Hons) in Software Engineering** — University of Westminster, UK *(awarded through IIT)* (2020–2023)
+- 💻 **Full Stack Development (MERN Stack)** — University of Colombo School of Computing (2024)
 
-## Currently Open To
+---
+
+## 🌍 Open To...
 
 Full-stack engineering, React Native/mobile development, backend/API engineering, and software integration opportunities. Based in Sri Lanka and **open to international relocation**.
 
-<p align="center">
-  <a href="https://www.shazeen.pro"><strong>Explore my portfolio → www.shazeen.pro</strong></a><br />
-  <a href="https://www.linkedin.com/in/mohamed-shazeen-9806/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:mhmmdshazeen@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://github.com/mohshazeen">GitHub</a>
-</p>
-
-<p align="center"><sub>Engineering practical software with reliable integrations and a focus on maintainability.</sub></p>
+<div align="center">
+  <h3>Let's build something amazing together!</h3>
+  <a href="mailto:mhmmdshazeen@gmail.com">
+    <img src="https://img.shields.io/badge/Reach_Out_Via_Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+</div>
